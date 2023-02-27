@@ -24,4 +24,4 @@ public:
 };
 
 
-#endif //INDUSTRIAL_PROGRAMMENT_PRACTIC_TRIANGLE_H
+#endif

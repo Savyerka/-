@@ -8,4 +8,10 @@ include_directories(2/1)
 add_executable(TIP
         2/1/main.cpp
         2/1/triangle.cpp
-        2/1/triangle.h)
+        2/1/triangle.h
+        2/2/circle.cpp
+        2/2/circle.h
+        2/2/main.cpp
+        2/3/figure.cpp
+        2/3/figure.h
+        2/3/main.cpp)
