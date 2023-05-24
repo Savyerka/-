@@ -17,3 +17,8 @@ add_executable(TIP2_3
         2/3/figure.cpp
         2/3/figure.h
         2/3/main.cpp)
+
+add_executable(TIP3_1
+        3/1/eq.cpp
+        3/1/eq.h
+        3/1/main.cpp)
