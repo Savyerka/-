@@ -22,3 +22,13 @@ add_executable(TIP3_1
         3/1/eq.cpp
         3/1/eq.h
         3/1/main.cpp)
+
+add_executable(TIP3_2
+        3/2/rational.cpp
+        3/2/rational.h
+        3/2/main.cpp)
+
+add_executable(TIP3_3
+        3/3/rational.cpp
+        3/3/rational.h
+        3/3/main.cpp)
